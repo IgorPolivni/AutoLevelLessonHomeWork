@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLevelLessonHW", "AutoLevelLessonHW\AutoLevelLessonHW.csproj", "{C2563F7C-6442-439B-A6B9-EBD37928926E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2563F7C-6442-439B-A6B9-EBD37928926E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2563F7C-6442-439B-A6B9-EBD37928926E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2563F7C-6442-439B-A6B9-EBD37928926E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2563F7C-6442-439B-A6B9-EBD37928926E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6959E5E5-27FF-40B5-9031-D9DA13268EB3}
+	EndGlobalSection
+EndGlobal
